@@ -1,4 +1,4 @@
-package com.CodersCampus.Assignment4;
+package com.CodersCampus.assignment4;
 
 public class UserServiceImpl implements UserService {
 
